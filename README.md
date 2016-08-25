@@ -6,10 +6,10 @@ To start the project in your terminal type :
 
 **NOTE:**You atleast need django 1.8 to run this code.
 
-Go to localhost:8000/admin to check for the registered user
+Go to localhost:8000/admin to check for the registered user use 
 
+username : admin and password : pass1234
 
-Use username : admin and password : pass1234
 
 OR 
 
